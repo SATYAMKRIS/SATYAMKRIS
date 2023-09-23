@@ -29,8 +29,7 @@ I am a Front-End Developer.
 
 - :zap: In my free time, I solve problems on Coding platforms and Work on my Skillset.
 
-- :mailbox:How to reach me: [Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thesatyamchaturvedi/)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thesatyamchaturvedi/)
 - <div>
 <h3>
   My Skills:
