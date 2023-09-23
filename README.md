@@ -21,7 +21,7 @@
 <h2>
   About Me:
 </h2>
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front-End Developer.
 
 - :telescope: Currently I am learning and exploring various technologies and developing projects.
 
