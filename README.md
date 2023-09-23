@@ -21,15 +21,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-End Developer.
+My Name is Satyam Chaturvedi. I am a Front-End Developer.
 
 - :telescope: Currently I am learning and exploring various technologies and developing projects.
 
 - :seedling: Exploring Web Development.
 
-- :zap: In my free time, I solve problems on Coding platforms and Work on my Skillset.
+- :zap: In my free time, I Work on my Skillset and I like to play Chess.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thesatyamchaturvedi/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thesatyamchaturvedi/)
 
 ---
 
