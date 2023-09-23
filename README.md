@@ -1,14 +1,6 @@
-### HELLO VISITORS! Welcome to my GitHub profile!
-
-My name is Satyam Chaturvedi.
-I am a front-end developer. I am currently working on his skillset by developing various projects using various technologies and frameworks.
-
-- 🔭 I’m currently working on ...My Skills
-- 🌱 I’m currently learning ...DSA
-- 👯 I’m looking to collaborate on ...Open Source Contribution
-- 
-- 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 <!--
