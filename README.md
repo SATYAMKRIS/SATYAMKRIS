@@ -19,6 +19,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Currently I am learning and exploring various technologies and developing projects.
+
+- :seedling: Exploring Web Development.
+
+- :zap: In my free time, I solve problems on Coding platforms and Work on my Skillset.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thesatyamchaturvedi/)
 
 
 
