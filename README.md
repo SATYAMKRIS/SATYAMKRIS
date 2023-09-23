@@ -6,7 +6,7 @@ I am a front-end developer. I am currently working on his skillset by developing
 - 🔭 I’m currently working on ...My Skills
 - 🌱 I’m currently learning ...DSA
 - 👯 I’m looking to collaborate on ...Open Source Contribution
-- 📫 How to reach me: ...thesatyamchaturvedi
+- 
 - 
 
 
